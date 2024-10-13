@@ -26,3 +26,16 @@ uv sync
 ```
 uv run pre-commit install
 ```
+
+4. activate virtual enviroment
+```
+. .venv/bin/activate
+```
+
+5. deactivate virtual enviroment
+```
+deactivate
+```
+
+reference
+- [uvだけでPythonプロジェクトを管理する](https://zenn.dev/turing_motors/articles/594fbef42a36ee)
